@@ -1,7 +1,7 @@
 # Artificial-Neural-Networks-and-Deep-Learning
 ## 0idee Group 💭
 ### Image Classification Challenge 🍃
-The objective of this challenge was to correctly classify images of leafs based on the species of the plant they belong.<br />
+The objective of this challenge was to correctly classify images of leaves based on the species of the plant they belong.<br />
 We developed two different solutions for this problem :
 * Convolutional Neural Network from scratch
 * Transfer Learning approach with Adam optimiser
